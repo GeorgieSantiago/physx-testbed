@@ -1,0 +1,7 @@
+{
+  "main.cpp:": {
+    "command": "cl /Fomain.obj /c main.cpp /TP /nologo /MTd /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\characterkinematic /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\collision /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\common /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\cooking /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\cudamanager /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\extensions /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\filebuf /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\foundation /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\geometry /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\geomutils /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\gpu /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\omnipvd /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\pvd /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\solver /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\task /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\vehicle /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\physx\\include\\vehicle2 /IC:\\Users\\emplo\\Apps\\godot-physx\\physx\\pxshared\\include",
+    "directory": "C:\\Users\\emplo\\Apps\\physx-testbed",
+    "file": "main.cpp"
+  }
+}
